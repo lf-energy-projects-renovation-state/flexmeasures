@@ -51,7 +51,7 @@ dill==0.3.8
     # via openturns
 dnspython==2.6.1
     # via email-validator
-email-validator==2.1.1
+email-validator==2.2.0
     # via
     #   -r requirements/app.in
     #   flask-security-too
