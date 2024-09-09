@@ -255,7 +255,7 @@ pytz==2024.1
     #   pandas
     #   timely-beliefs
     #   timetomodel
-pyyaml==6.0.1
+pyyaml==6.0.2
     # via -r requirements/app.in
 redis==4.6.0
     # via
