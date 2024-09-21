@@ -299,7 +299,7 @@ scipy==1.13.0
     #   statsmodels
     #   timely-beliefs
     #   timetomodel
-sentry-sdk[flask]==1.44.1
+sentry-sdk[flask]==2.8.0
     # via -r requirements/app.in
 six==1.16.0
     # via
