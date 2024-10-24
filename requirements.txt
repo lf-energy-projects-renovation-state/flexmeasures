@@ -100,7 +100,7 @@ flask-sqlalchemy==3.1.1
     #   flask-migrate
 flask-sslify==0.1.5
     # via -r requirements/app.in
-flask-wtf==1.2.1
+flask-wtf==1.2.2
     # via
     #   -r requirements/app.in
     #   flask-security-too
