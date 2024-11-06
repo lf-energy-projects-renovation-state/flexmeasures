@@ -326,7 +326,7 @@ timely-beliefs[forecast]==3.0.2
     # via -r requirements/app.in
 timetomodel==0.7.3
     # via -r requirements/app.in
-tldextract==5.1.2
+tldextract==5.1.3
     # via -r requirements/app.in
 toolz==0.12.1
     # via altair
