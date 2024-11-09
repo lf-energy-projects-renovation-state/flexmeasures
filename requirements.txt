@@ -19,7 +19,7 @@ babel==2.14.0
     # via py-moneyed
 bcrypt==4.0.1
     # via -r requirements/app.in
-blinker==1.7.0
+blinker==1.9.0
     # via
     #   flask-mail
     #   flask-principal
