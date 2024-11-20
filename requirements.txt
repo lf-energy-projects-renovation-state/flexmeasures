@@ -196,7 +196,7 @@ packaging==24.0
     #   sktime
     #   statsmodels
     #   webargs
-pandas==2.2.1
+pandas==2.2.3
     # via
     #   -r requirements/app.in
     #   altair
