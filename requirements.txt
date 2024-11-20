@@ -339,7 +339,7 @@ typing-extensions==4.11.0
     #   py-moneyed
     #   pydantic
     #   sqlalchemy
-tzdata==2024.1
+tzdata==2024.2
     # via pandas
 uniplot==0.14.1
     # via -r requirements/app.in
