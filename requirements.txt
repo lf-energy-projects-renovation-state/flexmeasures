@@ -285,7 +285,7 @@ rq==1.16.1
     #   rq-dashboard
 rq-dashboard==0.8.0.2
     # via -r requirements/app.in
-scikit-base==0.7.5
+scikit-base==0.12.0
     # via sktime
 scikit-learn==1.4.1.post1
     # via
