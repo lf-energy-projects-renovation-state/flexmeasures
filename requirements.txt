@@ -364,7 +364,7 @@ wtforms==3.1.2
     #   flask-wtf
 xlrd==2.0.1
     # via -r requirements/app.in
-zipp==3.18.1
+zipp==3.19.1
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
