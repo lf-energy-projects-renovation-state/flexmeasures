@@ -47,7 +47,7 @@ convertdate==2.4.0
     # via workalendar
 cycler==0.12.1
     # via matplotlib
-dill==0.3.8
+dill==0.3.9
     # via openturns
 dnspython==2.6.1
     # via email-validator
