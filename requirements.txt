@@ -273,7 +273,7 @@ requests==2.31.0
     # via
     #   requests-file
     #   tldextract
-requests-file==2.0.0
+requests-file==2.1.0
     # via tldextract
 rpds-py==0.18.0
     # via
