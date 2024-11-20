@@ -358,7 +358,7 @@ werkzeug==2.2.3
     #   flask-login
 workalendar==17.0.0
     # via -r requirements/app.in
-wtforms==3.1.2
+wtforms==3.2.1
     # via
     #   flask-security-too
     #   flask-wtf
