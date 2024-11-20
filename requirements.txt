@@ -125,7 +125,7 @@ inflection==0.5.1
     # via -r requirements/app.in
 iso8601==2.1.0
     # via -r requirements/app.in
-isodate==0.6.1
+isodate==0.7.2
     # via
     #   -r requirements/app.in
     #   timely-beliefs
