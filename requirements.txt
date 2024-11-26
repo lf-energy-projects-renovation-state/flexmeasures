@@ -186,7 +186,7 @@ numpy==1.24.4
     #   timely-beliefs
     #   timetomodel
     #   uniplot
-openturns==1.22
+openturns==1.24
     # via timely-beliefs
 packaging==24.0
     # via
