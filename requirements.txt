@@ -301,7 +301,7 @@ scipy==1.13.0
     #   timetomodel
 sentry-sdk[flask]==1.44.1
     # via -r requirements/app.in
-six==1.16.0
+six==1.17.0
     # via
     #   isodate
     #   patsy
