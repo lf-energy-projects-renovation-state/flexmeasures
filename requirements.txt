@@ -228,7 +228,7 @@ psycopg2-binary==2.9.9
     #   timely-beliefs
 py-moneyed==3.0
     # via -r requirements/app.in
-pydantic==1.10.15
+pydantic==1.10.21
     # via
     #   -r requirements/app.in
     #   inflect
