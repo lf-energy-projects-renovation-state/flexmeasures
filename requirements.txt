@@ -265,7 +265,7 @@ redis==4.6.0
     #   rq-dashboard
 redis-sentinel-url==1.0.1
     # via rq-dashboard
-referencing==0.34.0
+referencing==0.36.2
     # via
     #   jsonschema
     #   jsonschema-specifications
