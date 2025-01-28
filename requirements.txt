@@ -218,7 +218,7 @@ ply==3.11
     # via pyomo
 properscoring==0.1
     # via timely-beliefs
-pscript==0.7.7
+pscript==0.8.0
     # via -r requirements/app.in
 psutil==5.9.8
     # via openturns
