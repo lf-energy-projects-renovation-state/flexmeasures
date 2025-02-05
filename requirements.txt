@@ -148,7 +148,7 @@ kiwisolver==1.4.5
     # via matplotlib
 lunardate==0.2.2
     # via workalendar
-mako==1.3.2
+mako==1.3.9
     # via alembic
 markupsafe==2.1.5
     # via
