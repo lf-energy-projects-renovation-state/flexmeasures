@@ -104,7 +104,7 @@ flask-wtf==1.2.1
     # via
     #   -r requirements/app.in
     #   flask-security-too
-fonttools==4.51.0
+fonttools==4.56.0
     # via matplotlib
 greenlet==3.0.3
     # via sqlalchemy
