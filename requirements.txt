@@ -166,7 +166,7 @@ marshmallow==3.21.1
     #   webargs
 marshmallow-polyfield==5.11
     # via -r requirements/app.in
-marshmallow-sqlalchemy==1.0.0
+marshmallow-sqlalchemy==1.4.1
     # via -r requirements/app.in
 matplotlib==3.8.4
     # via timetomodel
