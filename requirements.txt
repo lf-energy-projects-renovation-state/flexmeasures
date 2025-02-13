@@ -92,7 +92,7 @@ flask-migrate==4.0.7
     # via -r requirements/app.in
 flask-principal==0.4.0
     # via flask-security-too
-flask-security-too==5.1.2
+flask-security-too==5.5.2
     # via -r requirements/app.in
 flask-sqlalchemy==3.1.1
     # via
