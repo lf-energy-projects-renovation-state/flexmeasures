@@ -220,7 +220,7 @@ properscoring==0.1
     # via timely-beliefs
 pscript==0.7.7
     # via -r requirements/app.in
-psutil==5.9.8
+psutil==7.0.0
     # via openturns
 psycopg2-binary==2.9.9
     # via
