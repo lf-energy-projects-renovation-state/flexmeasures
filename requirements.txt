@@ -168,7 +168,7 @@ marshmallow-polyfield==5.11
     # via -r requirements/app.in
 marshmallow-sqlalchemy==1.0.0
     # via -r requirements/app.in
-matplotlib==3.8.4
+matplotlib==3.10.1
     # via timetomodel
 numpy==1.24.4
     # via
