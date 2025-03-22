@@ -279,7 +279,7 @@ rpds-py==0.18.0
     # via
     #   jsonschema
     #   referencing
-rq==1.16.1
+rq==2.2.0
     # via
     #   -r requirements/app.in
     #   rq-dashboard
