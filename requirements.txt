@@ -108,7 +108,7 @@ fonttools==4.51.0
     # via matplotlib
 greenlet==3.0.3
     # via sqlalchemy
-humanize==4.9.0
+humanize==4.12.2
     # via -r requirements/app.in
 idna==3.6
     # via
