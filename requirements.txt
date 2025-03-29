@@ -308,7 +308,7 @@ six==1.16.0
     #   python-dateutil
 sktime==0.28.0
     # via timely-beliefs
-sqlalchemy==2.0.29
+sqlalchemy==2.0.40
     # via
     #   -r requirements/app.in
     #   alembic
