@@ -241,7 +241,7 @@ py-moneyed==3.0
     # via -r requirements/app.in
 pycparser==2.22
     # via cffi
-pydantic==1.10.21
+pydantic==2.11.3
     # via
     #   -r requirements/app.in
     #   inflect
