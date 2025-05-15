@@ -61,7 +61,7 @@ email-validator==2.2.0
     #   flask-security-too
 filelock==3.18.0
     # via tldextract
-flask==3.1.0
+flask==3.1.1
     # via
     #   -r requirements/app.in
     #   flask-classful
