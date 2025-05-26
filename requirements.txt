@@ -225,7 +225,7 @@ pillow==11.2.0
     #   matplotlib
 pint==0.24.4
     # via -r requirements/app.in
-platformdirs==4.3.7
+platformdirs==4.3.8
     # via pint
 ply==3.11
     # via pyomo
