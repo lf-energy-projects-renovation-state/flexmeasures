@@ -200,7 +200,7 @@ numpy==1.26.4
     #   uniplot
 openturns==1.24
     # via timely-beliefs
-packaging==24.2
+packaging==25.0
     # via
     #   altair
     #   marshmallow
