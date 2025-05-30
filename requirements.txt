@@ -270,7 +270,7 @@ pytz==2025.2
     #   timetomodel
 pyyaml==6.0.2
     # via -r requirements/app.in
-redis==5.2.1
+redis==6.2.0
     # via
     #   -r requirements/app.in
     #   redis-sentinel-url
