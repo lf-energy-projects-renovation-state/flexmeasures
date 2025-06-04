@@ -9,7 +9,7 @@ alembic==1.15.2
     # via flask-migrate
 altair==5.5.0
     # via -r requirements/app.in
-argon2-cffi==23.1.0
+argon2-cffi==25.1.0
     # via -r requirements/app.in
 argon2-cffi-bindings==21.2.0
     # via argon2-cffi
