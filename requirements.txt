@@ -182,7 +182,7 @@ marshmallow-sqlalchemy==1.4.1
     # via -r requirements/app.in
 matplotlib==3.10.1
     # via timetomodel
-narwhals==1.33.0
+narwhals==1.41.1
     # via altair
 numpy==1.26.4
     # via
