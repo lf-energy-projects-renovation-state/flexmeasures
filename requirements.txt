@@ -184,7 +184,7 @@ matplotlib==3.10.3
     # via timetomodel
 narwhals==1.41.0
     # via altair
-numpy==1.26.4
+numpy==2.3.1
     # via
     #   contourpy
     #   matplotlib
