@@ -375,7 +375,7 @@ wtforms==3.2.1
     # via
     #   flask-security-too
     #   flask-wtf
-xlrd==2.0.1
+xlrd==2.0.2
     # via -r requirements/app.in
 zipp==3.22.0
     # via importlib-metadata
