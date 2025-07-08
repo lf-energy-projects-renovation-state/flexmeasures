@@ -208,7 +208,7 @@ packaging==25.0
     #   sktime
     #   statsmodels
     #   webargs
-pandas==2.2.1
+pandas==2.3.1
     # via
     #   -r requirements/app.in
     #   sktime
