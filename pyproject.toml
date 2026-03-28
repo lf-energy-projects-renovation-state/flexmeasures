@@ -199,7 +199,7 @@ env = {FLEXMEASURES_ENV = "documentation", FLEXMEASURES_PLUGINS = ""}
 
 [dependency-groups]
 dev = [
-    "black==24.8.0",
+    "black==24.10.0",
     "flake8==7.1.1",
     "flake8-blind-except",
     "pytest-runner",
